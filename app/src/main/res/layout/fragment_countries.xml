@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/Country_rv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/SortSpinner" />
+
+    <EditText
+        android:id="@+id/Search_ET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="24dp"
+
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/search_custom_bar"
+        android:hint="@string/search"
+        android:paddingLeft="55dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/search_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:src="@drawable/search_icon"
+            app:layout_constraintBottom_toBottomOf="@+id/Search_ET"
+            app:layout_constraintStart_toStartOf="@+id/Search_ET"
+            app:layout_constraintTop_toTopOf="@+id/Search_ET" />
+
+    <Spinner
+        android:id="@+id/SortSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="32dp"
+        style="@style/spinner_style"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Search_ET" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:text="@string/sort_by"
+        app:layout_constraintBottom_toBottomOf="@+id/SortSpinner"
+        app:layout_constraintEnd_toStartOf="@+id/SortSpinner"
+        app:layout_constraintTop_toTopOf="@+id/SortSpinner" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="red">#FF2424</color>
+    <color name="yellow">#FFA200</color>
+    <color name="green">#0FF171</color>
+    <color name="blue">#003CBF</color>
+    <color name="popUp">#05D8F3</color>
+    <color name="black">#000000</color>
+    <color name="search_color">#767676</color>
+    <color name="LightningGray">#D3D3D3</color>
+    <color name="DarkRed">#cc0000</color>
+    <color name="gray">#757575</color>
+
+
+</resources>
