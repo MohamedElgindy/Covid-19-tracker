@@ -11,7 +11,7 @@ any feedback,comment or suggestion to improvement code or add Feature to make th
 - Live Map to track Covid-19 (Bing maps)
  
 ### SCREENSHOTS : 
-<ahref="https://ibb.co/y54y1Hq"><img src="https://i.ibb.co/y54y1Hq/Screenshot-1592020301.png" alt="Screenshot-1592020301" border="0" target="_blank"></a>
+<a href="https://ibb.co/y54y1Hq"><img src="https://i.ibb.co/y54y1Hq/Screenshot-1592020301.png" alt="Screenshot-1592020301" border="0" target="_blank"></a>
 <a href="https://ibb.co/j89x9pM"><img src="https://i.ibb.co/j89x9pM/Screenshot-1592020202.png" alt="Screenshot-1592020202" border="0"></a> 
 <a href="https://ibb.co/v4JSWWC"><img src="https://i.ibb.co/v4JSWWC/Screenshot-1592020209.png" alt="Screenshot-1592020209" border="0"></a> 
 <a href="https://ibb.co/ZS6ZVYN"><img src="https://i.ibb.co/ZS6ZVYN/Screenshot-1592020224.png" alt="Screenshot-1592020224" border="0"></a>
