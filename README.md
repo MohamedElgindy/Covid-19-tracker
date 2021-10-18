@@ -20,9 +20,6 @@ any feedback,comment or suggestion to improvement code or add Feature to make th
 <a href="https://ibb.co/7WJxrvv"><img src="https://i.ibb.co/7WJxrvv/Screenshot-1592020347.png" alt="Screenshot-1592020347" border="0"></a> 
 <a href="https://ibb.co/VvDG2Kq"><img src="https://i.ibb.co/VvDG2Kq/Screenshot-1592020236.png" alt="Screenshot-1592020236" border="0"></a> 
 
-### App Is Using
-- Retrofit
-- Viewmodel, Livedata
 
 ## 3rd party APIs used
 - [Novel Covid API](https://github.com/NovelCOVID/API)
